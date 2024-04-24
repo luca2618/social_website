@@ -1,6 +1,6 @@
 baseURL = "https://peterampazzo.github.io/project-website-template/"
 title = "Beer Data analysis"
-description = "What kind of beer drinker are you?"
+description = "What kind of beer drinker are you? Crazy"
 relativeURLs = true
 theme = "theme" 
 [params]

@@ -1,5 +1,5 @@
 ---
-title: Data description
+title: Data 
 prev: "/"
 next: network-analysis
 ---

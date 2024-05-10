@@ -8,11 +8,11 @@ next: text-analysis
 The network we created from dataset, consisted of 2 types of nodes. Person nodes and beer nodes, each interlinked by a person review of a beer. Ultimately we were interessted in communities of beer drinkers, and therefore projected the network onto the people nodes. Furthermore we weighted each edge between 2 people with the sum of an agreement score for each beer they shared.
 
 ## **Network properties**
-The network end up being completely connected, meaning that there are no isolated nodes of people drinking beers that no other person
+The network end up being completely connected, meaning that there are no distinc sets of people driking only distincs sets of beers. The dataset has many reviews, so its expected that for any beer that has been reviewed that there is at least one other person that has reviewed that has tried another beer. 
 
 
 ## **Weight analysis**
-
+The weight of the edges mainly show that there are very few connection that are considered negative, that 2 people disagree on the beers they drink. This is mostly expected, as we expect most people to drink and review the beers that they like and therefore mostly agree. Furthermore, if a beers is bad we likewise would expect people to aggree on them. The negative scores do however represent an important demografic of the edges in the network, as they represent disaggrence on beers, meaning distinct differences in the perception of a beer or several beers. That there are negative weights at all therefore shows us that there are people in the network that mainly disagree on the beers that they drink, and they therefore likely have distint different tastes. Its not essential to showing that there exist different communities of beer drinkers, but is interesting as they show the existence of people trying out different beers and having mixed opinions on them.
 ![Graph weight distribution](/images/weight.png)
 
 ## **Degree analysis**

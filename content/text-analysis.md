@@ -46,7 +46,7 @@ The textual analysis involved several steps:
 Taking a look at the wordclouds for all reviews of well liked beers within a community (score ≥ 4/5), we see the communities as a whole exhibit similar preferences to eachother, however a slight preference skew is still present, similar to what was found between the top beers
 
 ![Community 3 Word Cloud](/images/community2.png)
-### Top TF-IDF over communities
+### Top TF-IDF over communities (from left to right)
 - Community 1: light, sweet, dark, smooth, brown
 - Community 2: dark, sweet, light, smooth, brown
 - Community 3: sweet, light, dark, smooth, white

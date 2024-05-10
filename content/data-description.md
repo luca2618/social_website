@@ -6,6 +6,8 @@ next: network-analysis
 
 To delve into the intriguing world of beer reviews, we are leveraging the extensive Beer Advocate dataset. This dataset is derived from the beeradvocate forum and contains 1.5 million beer reviews starting from November 2011. Each review provides a score across five key qualities: appearance, aroma, palate, taste, and overall impression, along with a written text where the reviewer can elaborate on their oppinions and the qualities of the beer. Our analysis aims to decode what qualities of a beer people prefer, as well as identifying communities of people with different tastes in beers.
 
+The dataset is available by request at https://snap.stanford.edu/data/web-BeerAdvocate.html 
+
 *An example from the data*
 | beer/Name    | beerId | brewerId | ABV  | style      | appearance | aroma |
 |--------------|--------|----------|------|------------|------------|-------|

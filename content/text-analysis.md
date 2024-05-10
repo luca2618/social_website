@@ -25,21 +25,21 @@ The textual analysis was carried out by:
 
 ### **Community 1:**
 ![Community 1 Word Cloud](/images/community0.png)
-- *Beer Choices:* Quad, American Double/Imperial IPA, Munich Helles Lager.
-- *Top Words in Word Clouds:* dark, brown, sweet, light, deep, golden, orange, crisp, sweet, fresh, light, white, fresh, soft, yellow.
-- **Interpretation:** Community 1 appears to favor a diverse range of beer styles, including both darker and lighter options. The descriptive terms suggest an appreciation for nuanced flavors and varied sensory experiences.
+- *Beer Choices:* Quad, American Double/Imperial IPA, Flander Oud Bruin.
+- *Top Words in Word Clouds:* Dark, brown, sweet, light, deep, golden, orange, crisp, sweet, fresh, light, white, fresh, soft, yellow.
+- *Interpretation:* Community 1 appears to favor a diverse range of beer styles, including both darker and lighter options. The descriptive terms suggest an appreciation for nuanced flavors, colors and varied sensory experiences.
 
 ### **Community 2:**
 ![Community 2 Word Cloud](/images/community1.png)
 - *Beer Choices:* Old Ale, American Double/Imperial Stout.
-- *Top Words in Word Clouds:* dark, deep, aging, smooth, level, caramel black, dark, sweet, vanilla, carbonated.
-- **Interpretation:** Community 2 exhibits a preference for robust and full-bodied beers, characterized by rich, deep flavors and smooth textures. The descriptive terms imply a fondness for complexity and depth in beer profiles.
+- *Top Words in Word Clouds:* Dark, deep, aging, smooth, level, caramel black, dark, sweet, vanilla, carbonated.
+- *Interpretation:* Community 2 exhibits a preference for robust and full-bodied beers, characterized by rich, deep flavors and smooth textures. The descriptive terms imply a fondness for complexity and depth in beer profiles.
 
 ### **Community 3:**
 ![Community 3 Word Cloud](/images/community2.png)
-- *Beer Choices:* American IPA, American Double/Imperial IPA.
-- *Top Words in Word Clouds:* Stone, golden, smooth, crisp, easy, bitter, floral, orange, smooth, intense, easy.
-- **Interpretation:** Community 3 demonstrates a predilection for hop-forward and aromatic beers, with a focus on bold flavors and refreshing characteristics. The word choices suggest an inclination towards beers that offer a balance between bitterness and smoothness, with vibrant fruity and floral notes.
+- *Beer Choices:* American IPA, American Double/Imperial IPA, American Strong Ale.
+- *Top Words in Word Clouds:* Golden, smooth, crisp, easy, bitter, floral, orange, smooth, intense, easy.
+- *Interpretation:* Community 3 exhibits a preference for aromatic beers, with a focus on bold flavors and refreshing characteristics as IPAs are known for. The word choices suggest an inclination towards beers that offer a balance between bitterness and smoothness, with vibrant fruity and floral notes.
 
 ## **All beers in the communites:**
 Taking a look at the wordclouds for all reviews of well liked beers within a community (score ≥ 4/5), we see the communities as a whole exhibit similar preferences to eachother, however a slight preference skew is still present, similar to what was found between the top beers

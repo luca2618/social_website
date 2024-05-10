@@ -5,13 +5,13 @@ prev: network-analysis
 
 # Textual Analysis of Beer Reviews
 
-## Introduction:
+## **Introduction:**
 In our social science project, we embarked on a textual analysis of beer reviews to explore patterns of community formation based on preferences in beer consumption. Through this analysis, we aimed to understand the underlying characteristics and sentiments associated with different beer choices within distinct communities.
 
-## Community Identification:
+## **Community Identification:**
 Upon analyzing the beer reviews, we identified three distinct communities based on commonalities in beer preferences and review sentiments. These communities were delineated based on shared characteristics observed in the reviews.
 
-## Methodology:
+## **Methodology:**
 The textual analysis involved several steps:
 
 1. **Community Segmentation:** People were categorized into communities based on similarities in their beer reviews.
@@ -21,7 +21,7 @@ The textual analysis involved several steps:
 3. **TF-IDF and Exclusion:** The word clouds were constructed using TF-IDF (Term Frequency-Inverse Document Frequency) on lemmatized reviews, focusing solely on adjectives. Certain words were qualitatively excluded if they were deemed irrelevant to offering insights about the beer.
 
 
-## Analysis by Community:
+## **Analysis by Community:**
 
 ### **Community 1:**
 ![Community 1 Word Cloud](/images/community0.png)
@@ -48,5 +48,7 @@ The textual analysis involved several steps:
     - American Double/Imperial IPA: bitter, floral, orange, smooth, intense, easy.
 - **Interpretation:** Community 3 demonstrates a predilection for hop-forward and aromatic beers, with a focus on bold flavors and refreshing characteristics. The word choices suggest an inclination towards beers that offer a balance between bitterness and smoothness, with vibrant fruity and floral notes.
 
-## Conclusion:
+
+
+## **Conclusion:**
 The beer choices within each community provide insights into the distinct preferences and sensibilities of the individuals comprising them. Through textual analysis, we have gained a deeper understanding of how beer preferences reflect and contribute to the formation of social communities with shared tastes and preferences.

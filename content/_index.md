@@ -16,5 +16,5 @@ It's a cultural exploration that appeals to marketers, brewers, and sociologists
 By participating in this exploration, visitors to our website can gain deeper insights into what makes a beer stand out and how collective opinions shape the beer landscape. Whether you're a data geek, a brew master, or just someone who enjoys a good pint, this project has something intriguing to offer.
 
 
-## [Explainer Notebook](explainer-notebook.html)
+## [Explainer Notebook](https://nbviewer.org/github/luca2618/social_website/blob/main/Explainer.ipynb)
 

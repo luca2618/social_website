@@ -19,3 +19,6 @@ To delve into the intriguing world of beer reviews, we are leveraging the extens
 In order to manage our dataset more efficiently, we split the original dataset into two smaller sets: one containing the review scores and the other containing the review texts. After text lemmitization and compression, the used dataset is 203mb, with 1,560,428 samples and 13 features.
 
 Due to the sheer size of the dataset and memory limitations, we narrowed our focus by trying to capture the more casual beer drinker. As such, we narrowed our scope down to users who have posted between 10 and 100 beer reviews, which should help us capture a broad yet relevant perspective on beer appreciation. 
+
+### Ethical concerns: 
+The data gathered for this analysis is publicly available from beeradvocate.com and only contains usernames. As such, it is anonymized to the extent where a user could have chosen an identifiable username should they have chosen to. In our analysis however, we don't focus on any individual user, but rather communities consisiting of users with similar tastes.

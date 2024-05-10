@@ -12,9 +12,9 @@ In our social science project, we embarked on a textual analysis of beer reviews
 Upon analyzing the beer reviews, we identified three distinct communities based on commonalities in beer preferences and review sentiments. These communities were delineated based on shared characteristics observed in the reviews.
 
 ## **Methodology:**
-The textual analysis involved several steps:
+The textual analysis was carried out by:
 
-1. **Community Segmentation:** People were categorized into communities based on similarities in their beer reviews.
+1. **Community Segmentation:** From the network graph, people were categorized into communities based on similarities in their beer reviews.
   
 2. **Word Cloud Generation:** Word clouds were generated for the top-reviewed beers within each community, considering only those with more than 10 reviews and an overall score equal to or above 4/5. These word clouds visually represented the most frequently occurring adjectives in the reviews.
 

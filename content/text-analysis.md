@@ -26,8 +26,7 @@ The textual analysis was carried out by:
 ### **Community 1:**
 ![Community 1 Word Cloud](/images/community0.png)
 - *Beer Choices:* Quad, American Double/Imperial IPA, Munich Helles Lager.
-- *Top Words in Word Clouds:*
-    - Quad: dark, brown, sweet, light, deep, golden, orange, crisp, sweet, fresh, light, white, fresh, soft, yellow.
+- *Top Words in Word Clouds:* dark, brown, sweet, light, deep, golden, orange, crisp, sweet, fresh, light, white, fresh, soft, yellow.
 - **Interpretation:** Community 1 appears to favor a diverse range of beer styles, including both darker and lighter options. The descriptive terms suggest an appreciation for nuanced flavors and varied sensory experiences.
 
 ### **Community 2:**

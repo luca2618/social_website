@@ -5,7 +5,7 @@ relativeURLs = true
 theme = "theme" 
 [params]
     authors = ["Lucas Emcken", "Lucas Sylvester", "Lila Meflah"]
-    notebook = "/explainer-notebook.html"
+    notebook = "https://nbviewer.org/github/luca2618/social_website/blob/main/Explainer.ipynb"
     data = "https://drive.google.com"
     github = "https://github.com/luca2618/social_website.git"
     [[params.nav]]

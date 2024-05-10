@@ -18,5 +18,5 @@ The weight of the edges mainly show that there are very few connection that are 
 ## **Degree analysis**
 To better investigate the degree properties of the network we made a random comparison network with the same amount of nodes and same probability of an edge between nodes. As seen in the graph the structure of the network is far from similar to that of a random network. It significantly more spread, consisting of more high and low degree nodes, corresponding to people with more/less reviews or more/less popular beers in their reviews. Showing that there is wider range of beers drinkers than from a random network where people are equally likely to review and for a beer to be reviewed. This aligns with our expectation of the dataset representing a wider range of beers drinkers and range popularity beer. 
 ![Graph degree distribution](/images/degree.png)
-### **Assortivity**
-The assortivity being slightly negative indicates that 
+### **Assortivity: -0.1045**
+As the coefficient is around zero, it suggests a random mixing pattern of degree. However, it still negative, which show that high degree node are slightly more likely to connect to low degree node (users who share reviews with fewer users). This could suggest that people who have only reviewed fewer or less popular beer are more likely to have at least one beer in common with a person who has more reviews / reviews of more popular beers, which makes sense.

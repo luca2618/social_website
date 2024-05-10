@@ -54,12 +54,12 @@ Taking a look at the wordclouds for all reviews of well liked beers within a com
 Upon examining the word clouds representing all reviews of well-liked beers within each community (with a score ≥ 4/5), it becomes evident that while the communities have slightly different preferences for their top beers, a consistency exists between the preferences in all beers. For instance, descriptors like "sweet" and "smooth" emerge prominently across all communities, suggesting a collective preference for beers with these attributes.
 
 
-## Conclusion:
+## **Conclusion:**
 The beer choices within each community provide insights into the distinct preferences and sensibilities of the individuals comprising them. **Community 1** exhibits a wide range of beer styles, including both darker and lighter options, suggesting an appreciation for nuanced flavors and varied sensory experiences. **Community 2** demonstrates a preference for robust and full-bodied beers, characterized by rich, deep flavors and smooth textures, indicating a fondness for complexity and depth in beer profiles. **Community 3** showcases a predilection for hop-forward and aromatic beers, with a focus on bold flavors and refreshing characteristics, suggesting an inclination towards beers that offer a balance between bitterness and smoothness, with vibrant fruity and floral notes.
 
 Upon examining the word clouds representing all reviews of well-liked beers within each community, it becomes evident that while the communities have slightly different preferences for their top beers, a consistency exists between the preferences in all beers. For instance, descriptors like "sweet" and "smooth" emerge prominently across all communities, suggesting a collective preference for beers with these attributes.
 
-## Final thoughts and points of contention
+## **Final thoughts and points of contention:**
 The generation of these wordclouds rely on review scores, which for people can be highly subjective. Some people may be more inclined to score the beer higher or lower despite having the same oppinion about it, for example a beer rated 3/5 should in theory be average, howeever due to a leniency bias, some people might rate a beer they percieve as average higher.
 
 The analysis does not consider demographic factors such as age, gender, or geographic location, which could influence beer preferences. Without this information, the findings may not be generalizable to broader populations or demographics. In the wordclouds, we see American beers featured prominently, which may indicate that the majority of the reviewers are American. The beeradvocate forum is in english also, this gates people who don't speak english to review beers, which introduces a bias.

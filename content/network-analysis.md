@@ -19,5 +19,5 @@ The network we created from dataset, consisted of 2 types of nodes. Person nodes
 
 ![Graph degree distribution](/images/degree.png)
 
-### **Assortivity*
+### **Assortivity**
 

@@ -23,7 +23,7 @@ The textual analysis involved several steps:
 
 ## Analysis by Community:
 
-### Community 1:
+### **Community 1:**
 ![Community 1 Word Cloud](/images/community0.png)
 - *Beer Choices:* Quad, American Double/Imperial IPA, Munich Helles Lager.
 - *Top Words in Word Clouds:*
@@ -32,7 +32,7 @@ The textual analysis involved several steps:
     - Munich Helles Lager: light, white, fresh, soft, yellow.
 - **Interpretation:** Community 1 appears to favor a diverse range of beer styles, including both darker and lighter options. The descriptive terms suggest an appreciation for nuanced flavors and varied sensory experiences.
 
-### Community 2:
+### **Community 2:**
 ![Community 2 Word Cloud](/images/community1.png)
 - *Beer Choices:* Old Ale, American Double/Imperial Stout.
 - *Top Words in Word Clouds:*
@@ -40,7 +40,7 @@ The textual analysis involved several steps:
     - American Double/Imperial Stout: black, dark, sweet, vanilla, carbonated.
 - **Interpretation:** Community 2 exhibits a preference for robust and full-bodied beers, characterized by rich, deep flavors and smooth textures. The descriptive terms imply a fondness for complexity and depth in beer profiles.
 
-### Community 3:
+### **Community 3:**
 ![Community 3 Word Cloud](/images/community2.png)
 - *Beer Choices:* American IPA, American Double/Imperial IPA.
 - *Top Words in Word Clouds:*

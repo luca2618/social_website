@@ -18,4 +18,4 @@ To delve into the intriguing world of beer reviews, we are leveraging the extens
 
 In order to manage our dataset more efficiently, we split the original dataset into two smaller sets: one containing the review scores and the other containing the review texts. After text lemmitization and compression, the used dataset is 203mb, with 1,560,428 samples and 13 features.
 
-Due to the sheer size of the dataset, we narrowed our focus by trying to capture the more casual beer drinker. As such, we narrowed our scope down to users who have posted between 10 and 100 beer reviews, which should help us capture a broad yet relevant perspective on beer appreciation. 
+Due to the sheer size of the dataset and memory limitations, we narrowed our focus by trying to capture the more casual beer drinker. As such, we narrowed our scope down to users who have posted between 10 and 100 beer reviews, which should help us capture a broad yet relevant perspective on beer appreciation. 

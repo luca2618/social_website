@@ -59,6 +59,10 @@ The beer choices within each community provide insights into the distinct prefer
 Upon examining the word clouds representing all reviews of well-liked beers within each community, it becomes evident that while the communities have slightly different preferences for their top beers, a consistency exists between the preferences in all beers. For instance, descriptors like "sweet" and "smooth" emerge prominently across all communities, suggesting a collective preference for beers with these attributes.
 
 ## **Final thoughts and points of contention:**
+Due to memory limitations, the analysis is carried out on a subset of the data instead of the full dataset. We tried to narrow down the scope by limiting it to users with between 10 and 100 reviews in hopes of capturing the more casual drinker. As such, the presented data will not necessarily be indicative of the full dataset, and the communities will likely look very different.
+
 The generation of these wordclouds rely on review scores, which for people can be highly subjective. Some people may be more inclined to score the beer higher or lower despite having the same oppinion about it, for example a beer rated 3/5 should in theory be average, howeever due to a leniency bias, some people might rate a beer they percieve as average higher.
 
 The analysis does not consider demographic factors such as age, gender, or geographic location, which could influence beer preferences. Without this information, the findings may not be generalizable to broader populations or demographics. In the wordclouds, we see American beers featured prominently, which may indicate that the majority of the reviewers are American. The beeradvocate forum is in english also, this gates people who don't speak english to review beers, which introduces a bias.
+
+The data gathered for this analysis is publicly available from beeradvocate and only contains usernames. As such, it is anonymized to the extent where a user could have chosen an identifiable username should they have chosen to. In our analysis however, we don't focus on any individual user, but rather communities consisiting of users with similar tastes.

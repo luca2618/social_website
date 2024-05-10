@@ -1,32 +1,20 @@
 ---
-title: Home Page
+title: Project introduction
 layout: single
 next: data-description
 ---
 
-[What kind of beer drinker are you? Are there different communities or archetypes of beer drinkers? ](#). 
- **These are some questions you might ask yourself.**Through our website, we aim to answer these questions and provide insights into the network of beer enthusiasts.
+**Are there different communities or archetypes of beer drinkers?**
+    These are some questions you might ask yourself.Through our website, we aim to answer these questions and provide insights into the network of beer enthusiasts. You may even recognise what type of casual beer drinker you are yourself.
 
+## Our Interest in This Project
+    Our team is driven by a curiosity about the social dynamics within the beer community. By analyzing the shared reviews, we can map out a network of preferences and opinions, connecting people who might never have meet but share similar tastes in beer. This approach allows us to discover underlying patterns and perhaps even predict future trends in beer ratings and preferences. 
 
-## Title A 
+## For who
+    It's a cultural exploration that appeals to marketers, brewers, and sociologists alike. For enthusiasts and connoisseurs, understanding the nuanced perceptions of various beers can enhance their appreciation and guide their choices. Marketers and brewers can leverage these insights to better align their products with consumer preferences, tailoring their strategies to meet the discerning tastes of their audience. 
 
+    > By participating in this exploration, visitors to our website can gain deeper insights into what makes a beer stand out and how collective opinions shape the beer landscape. Whether you're a data geek, a brew master, or just someone who enjoys a good pint, this project has something intriguing to offer.
 
-$$ x^n + y^n = z^n $$
-
-## Code chunk
-
-```
-import pandas as pd
-
-df = pd.DataFrame()
-```
-
-| Column 1  | Column 2  |  Column 3 |
-|---|---|---|
-| 1 | 4 | 7 |
-| 2 | 5 | 8 |
-| 3 | 6 | 9 |
 
 ## [Explainer Notebook](explainer-notebook.html)
 
-Aenean non augue vulputate, bibendum ligula ac, euismod arcu. Proin consequat, urna at lobortis sodales, ligula nulla molestie dolor, et interdum nulla arcu eu lacus. Aenean maximus mi vel augue blandit, quis vehicula libero egestas. In mollis nibh in turpis sodales, eget luctus sem pretium. Integer lobortis diam vel nisi laoreet, ut condimentum risus ultrices. Praesent diam risus, imperdiet at lorem in, hendrerit auctor ex.
